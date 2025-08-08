@@ -3,8 +3,6 @@
 An end-to-end firearm detection project using YOLO-style object detection.  
 This repo contains data-scraping and preprocessing scripts, sample annotated data, a trained YOLOv8 weight (`yolov8s.pt`), and prediction/demo assets (`test.mp4`, `result.mp4`, etc.).
 
-> **Note:** This README assumes use of Ultralytics YOLOv8 (or compatible detection scripts). Adjust commands if you use another framework.
-
 ---
 
 ## Table of Contents
@@ -57,7 +55,7 @@ This repo contains data-scraping and preprocessing scripts, sample annotated dat
 - Recommended packages (install via pip). If a `requirements.txt` is not present, install the essentials:
 
 ```bash
-pip install ultralytics opencv-python numpy pandas tqdm matplotlib requests beautifulsoup4
+pip install ultralytics opencv-python numpy pandas tqdm matplotlib requests icrawler
 ```
 
 - GPU recommended (CUDA) for training. CPU works for inference/testing but will be slower.

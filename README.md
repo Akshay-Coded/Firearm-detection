@@ -6,7 +6,10 @@ This repo contains data-scraping and preprocessing scripts, sample annotated dat
 
 
 
-<video src="https://github.com/Akshay-Coded/Firearm-detection/blob/main/result.mp4" width="320" height="240" controls></video>
+<video width="640" height="360" controls>
+  <source src="result.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ---

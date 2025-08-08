@@ -4,7 +4,9 @@ An end-to-end firearm detection project using YOLO-style object detection.
 This repo contains data-scraping and preprocessing scripts, sample annotated data, a trained YOLOv8 weight (`yolov8s.pt`), and prediction/demo assets (`test.mp4`, `result.mp4`, etc.).
 
 
-![Firearm detection demo](result.mp4)
+
+
+<video src="https://github.com/Akshay-Coded/Firearm-detection/blob/main/result.mp4" width="320" height="240" controls></video>
 
 
 ---
